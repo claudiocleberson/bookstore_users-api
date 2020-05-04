@@ -5,9 +5,9 @@ import (
 
 	"github.com/claudiocleberson/bookstore_users-api/datasources/mysql/users_db"
 	"github.com/claudiocleberson/bookstore_users-api/logger"
-	"github.com/claudiocleberson/bookstore_users-api/utils/date_utils"
-	"github.com/claudiocleberson/bookstore_users-api/utils/mysql_utils"
-	"github.com/claudiocleberson/bookstore_users-api/utils/rest_err"
+	"github.com/claudiocleberson/bookstore_utils-shared/utils/date_utils"
+	"github.com/claudiocleberson/bookstore_utils-shared/utils/mysql_utils"
+	"github.com/claudiocleberson/bookstore_utils-shared/utils/rest_err"
 )
 
 const (

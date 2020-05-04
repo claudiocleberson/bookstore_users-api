@@ -7,7 +7,7 @@ import (
 	"github.com/claudiocleberson/bookstore_oauth-shared/oauth"
 	"github.com/claudiocleberson/bookstore_users-api/domain/users"
 	"github.com/claudiocleberson/bookstore_users-api/services"
-	"github.com/claudiocleberson/bookstore_users-api/utils/rest_err"
+	"github.com/claudiocleberson/bookstore_utils-shared/utils/rest_err"
 	"github.com/gin-gonic/gin"
 )
 
